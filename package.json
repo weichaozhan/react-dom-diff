@@ -1,0 +1,22 @@
+{
+  "name": "react-dom-diff",
+  "version": "1.0.0",
+  "description": "Demonstrate React component life-cycle and DOM diff algorithm.",
+  "main": "index.js",
+  "scripts": {
+    "server": "http-server -p 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weichaozhan/react-dom-diff.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weichaozhan/react-dom-diff/issues"
+  },
+  "homepage": "https://github.com/weichaozhan/react-dom-diff#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
